@@ -9,6 +9,6 @@ payload:
   - DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
   - DOMAIN-SUFFIX,qualtrics.com
-  - DOMAIN-KEYWORD,paradoxplaza,🎮 游戏
-  - DOMAIN-KEYWORD,paradox-interactive,🎮 游戏
-  - DOMAIN-SUFFIX,paradoxplaza.com,🎮 游戏
+  - DOMAIN-KEYWORD,paradoxplaza
+  - DOMAIN-KEYWORD,paradox-interactive
+  - DOMAIN-SUFFIX,paradoxplaza.com
