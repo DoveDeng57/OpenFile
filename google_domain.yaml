@@ -908,3 +908,15 @@ payload:
   - DOMAIN-SUFFIX,www.pxcc.com
   - DOMAIN-SUFFIX,www.recaptcha-cn.net
   - DOMAIN-SUFFIX,www.recaptcha.net
+# Android Push
+  - DOMAIN-SUFFIX,mtalk.google.com
+# Firebase Analytics
+  - DOMAIN-SUFFIX,app-measurement.com
+# Captcha
+  - DOMAIN-SUFFIX,recaptcha.net
+# Google Tools
+  - DOMAIN-SUFFIX,tools.google.com
+  - DOMAIN-SUFFIX,tools.l.google.com
+  - DOMAIN-SUFFIX,dl.l.google.com
+# Analytics CNAME
+  - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
