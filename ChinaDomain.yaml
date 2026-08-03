@@ -4,7 +4,6 @@ payload:
   # github 中转代理
   - DOMAIN-SUFFIX,gh-proxy.org
   - DOMAIN-SUFFIX,gh-proxy.com
-  - DOMAIN-SUFFIX,ghfast.top
   # OneTrust Cookie 合规平台的 CDN
   - DOMAIN-SUFFIX,cookielaw.org
 
