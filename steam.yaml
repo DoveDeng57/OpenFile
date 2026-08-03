@@ -49,3 +49,48 @@ payload:
   # Steam状态
   # =========================
   - DOMAIN-SUFFIX,steamstat.us
+  # steam 程序
+  - IP-CIDR,162.254.194.52/32
+
+  # ==================================
+  # Paradox 官方主站
+  # ==================================
+  - DOMAIN-SUFFIX,paradoxinteractive.com
+  - DOMAIN-SUFFIX,paradoxplaza.com
+  # ==================================
+  # Paradox Launcher
+  # ==================================
+  - DOMAIN-SUFFIX,launcher.paradoxinteractive.com
+  - DOMAIN-SUFFIX,api.paradoxinteractive.com
+  # ==================================
+  # Paradox 登录 / 账号
+  # ==================================
+  - DOMAIN-SUFFIX,accounts.paradoxinteractive.com
+  - DOMAIN-SUFFIX,auth.paradoxinteractive.com
+  # ==================================
+  # 游戏服务
+  # ==================================
+  - DOMAIN-SUFFIX,game.paradoxinteractive.com
+  - DOMAIN-SUFFIX,services.paradoxinteractive.com
+  # ==================================
+  # DLC / 内容分发
+  # ==================================
+  - DOMAIN-SUFFIX,cdn.paradoxinteractive.com
+  - DOMAIN-SUFFIX,content.paradoxinteractive.com
+  # ==================================
+  # Mod / Workshop / 用户内容
+  # ==================================
+  - DOMAIN-SUFFIX,mods.paradoxinteractive.com
+  # ==================================
+  # Paradox API
+  # ==================================
+  - DOMAIN-SUFFIX,api.paradoxplaza.com
+  # ==================================
+  # P社社区
+  # ==================================
+  - DOMAIN-SUFFIX,forum.paradoxplaza.com
+  - DOMAIN-SUFFIX,community.paradoxplaza.com
+  # ==================================
+  # Paradox Multiplayer
+  # ==================================
+  - DOMAIN-SUFFIX,multiplayer.paradoxplaza.com

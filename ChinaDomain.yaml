@@ -5,3 +5,48 @@ payload:
   - DOMAIN-SUFFIX,gh-proxy.org
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,ghfast.top
+  # OneTrust Cookie 合规平台的 CDN
+  - DOMAIN-SUFFIX,cookielaw.org
+
+  # ==================================
+  # NVIDIA 主站
+  # ==================================
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,nvidia.cn
+  # ==================================
+  # NVIDIA 更新服务
+  # ==================================
+
+  - DOMAIN,ota.nvidia.com
+  - DOMAIN-SUFFIX,download.nvidia.com
+  # ==================================
+  # NVIDIA 驱动下载
+  # ==================================
+  - DOMAIN-SUFFIX,driver.nvidia.com
+  - DOMAIN-SUFFIX,international.download.nvidia.com
+  # ==================================
+  # NVIDIA App / GeForce Experience
+  # ==================================
+  - DOMAIN-SUFFIX,geforce.com
+  - DOMAIN-SUFFIX,geforce.cn
+  - DOMAIN-SUFFIX,gfe.nvidia.com
+  # ==================================
+  # CUDA / AI 开发
+  # ==================================
+  - DOMAIN-SUFFIX,developer.nvidia.com
+  - DOMAIN-SUFFIX,docs.nvidia.com
+  - DOMAIN-SUFFIX,developer.download.nvidia.com
+  # ==================================
+  # NVIDIA NGC 容器 / AI资源
+  # ==================================
+  - DOMAIN-SUFFIX,ngc.nvidia.com
+  - DOMAIN-SUFFIX,registry.ngc.nvidia.com
+  # ==================================
+  # NVIDIA CDN / 静态资源
+  # ==================================
+  - DOMAIN-SUFFIX,nvidia.net
+  - DOMAIN-SUFFIX,nvgs.nvidia.com
+  # ==================================
+  # NVIDIA 游戏服务
+  # ==================================
+  - DOMAIN-SUFFIX,nvplay.net
