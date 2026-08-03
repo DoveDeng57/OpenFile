@@ -1,28 +1,67 @@
 payload:
-  # 微软 Windows 网络连通性检测
+
+  # ==================================
+  # Windows 网络基础检测
+  # ==================================
+
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
-  # Windows 更新
+
+  - DOMAIN,v4ncsi.msedge.net
+  - DOMAIN,v6ncsi.msedge.net
+
+
+  # ==================================
+  # Windows 系统服务
+  # ==================================
+
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,windows.net
 
 
-  # 微软下载 CDN
+  # ==================================
+  # Edge / Windows 配置服务
+  # ==================================
+
+  - DOMAIN,fp.msedge.net
+  - DOMAIN,spo-ring.msedge.net
+  - DOMAIN-SUFFIX,exp-tas.com
+
+
+  # ==================================
+  # Microsoft CDN 静态资源
+  # ==================================
+
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,msocdn.com
   - DOMAIN-SUFFIX,aspnetcdn.com
   - DOMAIN-SUFFIX,edgesuite.net
 
-
-  # 静态资源
   - DOMAIN-SUFFIX,gfx.ms
   - DOMAIN-SUFFIX,sfx.ms
   - DOMAIN-SUFFIX,aka.ms
 
 
-  # 微软应用商店
-  - DOMAIN-SUFFIX,onestore.ms
+  # ==================================
+  # Microsoft 下载资源
+  # ==================================
+
+  - DOMAIN-SUFFIX,download.microsoft.com
+
   - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,delivery.mp.microsoft.com
-  - DOMAIN-SUFFIX,download.microsoft.com
+
+
+  # ==================================
+  # Microsoft Store 下载 CDN
+  # ==================================
+
+  - DOMAIN-SUFFIX,onestore.ms
+
+
+  # ==================================
+  # DNS / 网络质量检测
+  # ==================================
+
+  - DOMAIN-SUFFIX,footprintdns.com

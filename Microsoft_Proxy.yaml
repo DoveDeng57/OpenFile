@@ -1,5 +1,6 @@
 payload:
 
+
   # ==================================
   # Microsoft 登录认证
   # ==================================
@@ -23,7 +24,7 @@ payload:
 
 
   # ==================================
-  # Microsoft 商店 / 服务
+  # Microsoft 服务 / Office
   # ==================================
 
   - DOMAIN-SUFFIX,microsoft.com
@@ -35,6 +36,11 @@ payload:
 
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,sharepointonline.com
+
+
+  # ==================================
+  # Microsoft Store 控制服务
+  # ==================================
 
   - DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
   - DOMAIN-SUFFIX,purchase.md.mp.microsoft.com
@@ -56,12 +62,20 @@ payload:
 
 
   # ==================================
+  # Microsoft 新云平台
+  # ==================================
+
+  - DOMAIN-SUFFIX,cloud.microsoft
+
+
+  # ==================================
   # Teams / Skype
   # ==================================
 
   - DOMAIN-SUFFIX,teams.microsoft.com
   - DOMAIN-SUFFIX,mstea.ms
   - DOMAIN-SUFFIX,lync.com
+
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,skypeassets.com
 
@@ -95,13 +109,8 @@ payload:
 
 
   # ==================================
-  # Visual Studio / 开发服务
+  # Visual Studio / Azure Dev
   # ==================================
 
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,dev.azure.com
-  
-  # ==================================
-  # Microsoft 云域名
-  # ==================================
-  - DOMAIN-SUFFIX,cloud.microsoft
