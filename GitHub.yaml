@@ -1,0 +1,108 @@
+payload:
+
+  # ==================================
+  # GitHub 主站
+  # ==================================
+
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,gist.github.com
+
+
+  # ==================================
+  # GitHub API
+  # ==================================
+
+  - DOMAIN,api.github.com
+
+
+  # ==================================
+  # GitHub 静态资源 CDN
+  # ==================================
+
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+
+
+  # ==================================
+  # Raw 文件
+  # ==================================
+
+  - DOMAIN,raw.githubusercontent.com
+
+
+  # ==================================
+  # Release 下载
+  # ==================================
+
+  - DOMAIN-SUFFIX,objects.githubusercontent.com
+  - DOMAIN-SUFFIX,release-assets.githubusercontent.com
+  - DOMAIN-SUFFIX,github-releases.githubusercontent.com
+
+
+  # ==================================
+  # Git LFS 大文件存储
+  # ==================================
+
+  - DOMAIN-SUFFIX,github-cloud.githubusercontent.com
+
+  - DOMAIN-SUFFIX,github-production-release-asset-2e65be.s3.amazonaws.com
+  - DOMAIN-SUFFIX,github-production-user-asset-6210df.s3.amazonaws.com
+
+
+  # ==================================
+  # GitHub Actions
+  # ==================================
+
+  - DOMAIN-SUFFIX,actions.githubusercontent.com
+  - DOMAIN-SUFFIX,actions.github.com
+
+
+  # ==================================
+  # GitHub Packages / Container
+  # ==================================
+
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,pkg.github.com
+
+
+  # ==================================
+  # GitHub Codespaces
+  # ==================================
+
+  - DOMAIN-SUFFIX,github.dev
+  - DOMAIN-SUFFIX,codespaces.new
+
+
+  # ==================================
+  # GitHub Copilot
+  # ==================================
+
+  - DOMAIN-SUFFIX,githubcopilot.com
+
+
+  # ==================================
+  # GitHub OAuth / App 服务
+  # ==================================
+
+  - DOMAIN-SUFFIX,githubapp.com
+
+
+  # ==================================
+  # GitHub Pages
+  # ==================================
+
+  - DOMAIN-SUFFIX,github.io
+
+
+  # ==================================
+  # GitHub Education
+  # ==================================
+
+  - DOMAIN-SUFFIX,githubeducation.com
+
+
+  # ==================================
+  # GitHub 邮件通知
+  # ==================================
+
+  - DOMAIN-SUFFIX,githubmail.com

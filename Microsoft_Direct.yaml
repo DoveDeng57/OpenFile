@@ -1,0 +1,26 @@
+payload:
+
+  # Windows 更新
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,windows.net
+
+
+  # 微软下载 CDN
+  - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,msocdn.com
+  - DOMAIN-SUFFIX,aspnetcdn.com
+  - DOMAIN-SUFFIX,edgesuite.net
+
+
+  # 静态资源
+  - DOMAIN-SUFFIX,gfx.ms
+  - DOMAIN-SUFFIX,sfx.ms
+  - DOMAIN-SUFFIX,aka.ms
+
+
+  # 微软应用商店
+  - DOMAIN-SUFFIX,onestore.ms
+  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,download.microsoft.com

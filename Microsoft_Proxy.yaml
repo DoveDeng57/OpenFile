@@ -1,0 +1,58 @@
+payload:
+
+  # 登录认证
+  - DOMAIN-SUFFIX,login.live.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,live.net
+  - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,outlookmobile.com
+
+  - DOMAIN-SUFFIX,msauth.net
+  - DOMAIN-SUFFIX,msauthimages.net
+  - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msftauthimages.net
+  - DOMAIN-SUFFIX,msftidentity.com
+  - DOMAIN-SUFFIX,msidentity.com
+  - DOMAIN-SUFFIX,phonefactor.net
+  - DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
+  - DOMAIN-SUFFIX,purchase.md.mp.microsoft.com
+  - DOMAIN-SUFFIX,displaycatalog.mp.microsoft.com
+
+
+  # Microsoft 账号/服务
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,apps.microsoft.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,office365.com
+
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,sharepointonline.com
+
+
+  # Azure
+  - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,azure.net
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,azurerms.com
+  - DOMAIN-SUFFIX,azureiotcentral.com
+
+  - DOMAIN-SUFFIX,cloudapp.net
+  - DOMAIN-SUFFIX,trafficmanager.net
+
+
+  # Teams / Skype
+  - DOMAIN-SUFFIX,teams.microsoft.com
+  - DOMAIN-SUFFIX,mstea.ms
+  - DOMAIN-SUFFIX,lync.com
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,skypeassets.com
+
+
+  # 开发者服务
+  - DOMAIN-SUFFIX,visualstudio.com
+
+  # OneNote
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,onenote.net
