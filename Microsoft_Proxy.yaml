@@ -1,7 +1,12 @@
 payload:
 
-  # 登录认证
+  # ==================================
+  # Microsoft 登录认证
+  # ==================================
+
   - DOMAIN-SUFFIX,login.live.com
+  - DOMAIN-SUFFIX,login.microsoftonline.com
+
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,live.net
   - DOMAIN-SUFFIX,hotmail.com
@@ -15,14 +20,15 @@ payload:
   - DOMAIN-SUFFIX,msftidentity.com
   - DOMAIN-SUFFIX,msidentity.com
   - DOMAIN-SUFFIX,phonefactor.net
-  - DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
-  - DOMAIN-SUFFIX,purchase.md.mp.microsoft.com
-  - DOMAIN-SUFFIX,displaycatalog.mp.microsoft.com
 
 
-  # Microsoft 账号/服务
+  # ==================================
+  # Microsoft 商店 / 服务
+  # ==================================
+
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,apps.microsoft.com
+
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,office.net
   - DOMAIN-SUFFIX,office365.com
@@ -30,8 +36,15 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,sharepointonline.com
 
+  - DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
+  - DOMAIN-SUFFIX,purchase.md.mp.microsoft.com
+  - DOMAIN-SUFFIX,displaycatalog.mp.microsoft.com
 
-  # Azure
+
+  # ==================================
+  # Azure 云服务
+  # ==================================
+
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,azure.net
   - DOMAIN-SUFFIX,azureedge.net
@@ -42,7 +55,10 @@ payload:
   - DOMAIN-SUFFIX,trafficmanager.net
 
 
+  # ==================================
   # Teams / Skype
+  # ==================================
+
   - DOMAIN-SUFFIX,teams.microsoft.com
   - DOMAIN-SUFFIX,mstea.ms
   - DOMAIN-SUFFIX,lync.com
@@ -50,9 +66,45 @@ payload:
   - DOMAIN-SUFFIX,skypeassets.com
 
 
-  # 开发者服务
-  - DOMAIN-SUFFIX,visualstudio.com
-
+  # ==================================
   # OneNote
+  # ==================================
+
   - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,onenote.net
+
+
+  # ==================================
+  # Visual Studio Code
+  # ==================================
+
+  - DOMAIN-SUFFIX,code.visualstudio.com
+  - DOMAIN-SUFFIX,vscode.dev
+  - DOMAIN-SUFFIX,vscode.com
+
+  - DOMAIN-SUFFIX,vscode-cdn.net
+  - DOMAIN-SUFFIX,vscode-unpkg.net
+
+  - DOMAIN-SUFFIX,update.code.visualstudio.com
+  - DOMAIN-SUFFIX,az764295.vo.msecnd.net
+
+  - DOMAIN-SUFFIX,marketplace.visualstudio.com
+  - DOMAIN-SUFFIX,marketplace.visualstudio.com.edgesuite.net
+
+  - DOMAIN-SUFFIX,vscode-sync.azurewebsites.net
+
+
+  # ==================================
+  # Visual Studio / 开发服务
+  # ==================================
+
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,dev.azure.com
+
+
+  # ==================================
+  # Copilot
+  # ==================================
+
+  - DOMAIN-SUFFIX,githubcopilot.com
+  - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com

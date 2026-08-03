@@ -78,6 +78,8 @@ payload:
   # ==================================
 
   - DOMAIN-SUFFIX,githubcopilot.com
+  - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
+
 
 
   # ==================================
