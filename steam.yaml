@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steam-api.com
+  - DOMAIN-SUFFIX,steam-chat.com
+
+  - DOMAIN-KEYWORD,steamstore
+  - DOMAIN-KEYWORD,steambroadcast
