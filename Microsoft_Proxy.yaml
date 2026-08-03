@@ -100,14 +100,7 @@ payload:
 
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,dev.azure.com
-
-
-  # ==================================
-  # Copilot
-  # ==================================
-
-  - DOMAIN-SUFFIX,githubcopilot.com
-  - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
+  
   # ==================================
   # Microsoft 云域名
   # ==================================

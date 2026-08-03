@@ -1,5 +1,7 @@
 payload:
-
+  # 微软 Windows 网络连通性检测
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
   # Windows 更新
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,windows.com
