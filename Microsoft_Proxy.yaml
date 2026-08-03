@@ -1,6 +1,7 @@
 payload:
 
 
+  - PROCESS-NAME,msedgewebview2.exe
   # ==================================
   # Microsoft 登录认证
   # ==================================
