@@ -3,6 +3,7 @@ payload:
   # =========================
   # Steam核心
   # =========================
+  - DOMAIN,steamconnecttest.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com
 
@@ -19,6 +20,7 @@ payload:
   # Steam连接管理
   # =========================
   - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,steamserver.net
 
   # =========================
   # 商店/社区关键词
