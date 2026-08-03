@@ -2,6 +2,7 @@ payload:
 
   - PROCESS-NAME,GRB_vulkan.exe
   - PROCESS-NAME,upc.exe
+  - PROCESS-NAME,UplayWebCore.exe
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoft.com
   - DOMAIN-SUFFIX,ubisoftconnect.com
