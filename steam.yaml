@@ -1,5 +1,12 @@
 payload:
 
+# Cities Skylines
+  - PROCESS-NAME,Cities.exe
+  - PROCESS-NAME,Cities2.exe
+
+  # Paradox Launcher
+  - PROCESS-NAME,Paradox Launcher.exe
+
   # =========================
   # Steam核心
   # =========================
@@ -62,6 +69,7 @@ payload:
   # ==================================
   - DOMAIN-SUFFIX,launcher.paradoxinteractive.com
   - DOMAIN-SUFFIX,api.paradoxinteractive.com
+  - DOMAIN-SUFFIX,braze-images.com
   # ==================================
   # Paradox 登录 / 账号
   # ==================================
@@ -94,3 +102,10 @@ payload:
   # Paradox Multiplayer
   # ==================================
   - DOMAIN-SUFFIX,multiplayer.paradoxplaza.com
+
+  # 游戏统计 / 崩溃 / 反作弊 / 遥测
+  - DOMAIN-SUFFIX,backtrace.io
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,crashlytics.com
+
+
