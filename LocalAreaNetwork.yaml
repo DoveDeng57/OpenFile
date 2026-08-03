@@ -63,6 +63,14 @@ payload:
   - IP-CIDR6,fe80::/10,no-resolve
 
   # ==================================
+  # 系统安全基础服务
+  # ==================================
+
+  # Let's Encrypt Certificate Validation
+  - DOMAIN-SUFFIX,lencr.org
+
+
+  # ==================================
   # Router Management（路由器管理）
   # ==================================
 

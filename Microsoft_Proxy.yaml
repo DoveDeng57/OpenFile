@@ -108,3 +108,7 @@ payload:
 
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
+  # ==================================
+  # Microsoft 云域名
+  # ==================================
+  - DOMAIN-SUFFIX,cloud.microsoft

@@ -1,3 +1,6 @@
 payload:
     #
   - DOMAIN-SUFFIX,sina.com
+  # github 中转代理
+  - DOMAIN-SUFFIX,gh-proxy.org
+  - DOMAIN-SUFFIX,gh-proxy.com

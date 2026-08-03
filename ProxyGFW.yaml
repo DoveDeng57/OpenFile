@@ -1,3 +1,11 @@
 payload:
     #
   - DOMAIN-SUFFIX,sg.tgalileo.com
+    # npm JavaScript 包 CDN
+  - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,npmjs.org
+  - DOMAIN-SUFFIX,npmjs.com
+    # Cloudflare CDNJS 公共静态资源 CDN
+  - DOMAIN-SUFFIX,cdnjs.cloudflare.com
+    # Tailwind CSS 官方 CDN
+  - DOMAIN-SUFFIX,tailwindcss.com
