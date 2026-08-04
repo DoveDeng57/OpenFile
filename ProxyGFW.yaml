@@ -1,6 +1,4 @@
 payload:
-    #
-  - DOMAIN-SUFFIX,sg.tgalileo.com
     # npm JavaScript 包 CDN
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,npmjs.org
