@@ -58,6 +58,7 @@ payload:
   # ==================================
 
   - DOMAIN-SUFFIX,onestore.ms
+  - DOMAIN-SUFFIX,xboxservices.com
 
 
   # ==================================
