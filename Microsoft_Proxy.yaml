@@ -28,7 +28,6 @@ payload:
   # Microsoft 服务 / Office
   # ==================================
 
-  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,apps.microsoft.com
 
   - DOMAIN-SUFFIX,office.com
