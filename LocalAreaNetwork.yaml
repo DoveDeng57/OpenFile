@@ -69,6 +69,7 @@ payload:
   # Let's Encrypt Certificate Validation
   - DOMAIN-SUFFIX,lencr.org
   - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,sectigo.com
 
   # ==================================
   # Router Management（路由器管理）
