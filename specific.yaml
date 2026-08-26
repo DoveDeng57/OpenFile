@@ -1,14 +1,7 @@
 payload:
   # ==================================
-  # Paradox 官方主站
+  # 测试
   # ==================================
-  - DOMAIN-SUFFIX,paradoxinteractive.com
-  - DOMAIN-SUFFIX,paradoxplaza.com
-  - DOMAIN-SUFFIX,braze-images.com
-
-  # 游戏统计 / 崩溃 / 反作弊 / 遥测
-  - DOMAIN-SUFFIX,backtrace.io
-  - DOMAIN-SUFFIX,sentry.io
-  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,google.com
 
 
