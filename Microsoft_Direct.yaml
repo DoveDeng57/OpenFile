@@ -66,3 +66,5 @@ payload:
   # ==================================
 
   - DOMAIN-SUFFIX,footprintdns.com
+  ##诊断数据上传
+  - DOMAIN-SUFFIX,self.events.data.microsoft.com
