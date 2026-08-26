@@ -7,3 +7,7 @@ payload:
   - DOMAIN-SUFFIX,cdnjs.cloudflare.com
     # Tailwind CSS 官方 CDN
   - DOMAIN-SUFFIX,tailwindcss.com
+  # mihomo 相关地址
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,clashparty.org
+  - DOMAIN-SUFFIX.mihomo.party

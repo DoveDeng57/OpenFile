@@ -50,3 +50,5 @@ payload:
   # NVIDIA 游戏服务
   # ==================================
   - DOMAIN-SUFFIX,nvplay.net
+  # 必应搜索
+  - DOMAIN,c.bing.com

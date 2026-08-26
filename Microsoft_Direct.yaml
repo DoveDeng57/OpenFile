@@ -9,6 +9,7 @@ payload:
 
   - DOMAIN,v4ncsi.msedge.net
   - DOMAIN,v6ncsi.msedge.net
+  - DOMAIN,edge.microsoft.com
 
 
   # ==================================
@@ -67,4 +68,4 @@ payload:
 
   - DOMAIN-SUFFIX,footprintdns.com
   ##诊断数据上传
-  - DOMAIN-SUFFIX,self.events.data.microsoft.com
+  - DOMAIN-SUFFIX,events.data.microsoft.com
