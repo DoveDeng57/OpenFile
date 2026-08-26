@@ -10,4 +10,4 @@ payload:
   # mihomo 相关地址
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,clashparty.org
-  - DOMAIN-SUFFIX.mihomo.party
+  - DOMAIN-SUFFIX,mihomo.party

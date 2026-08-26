@@ -19,7 +19,7 @@ payload:
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,windows.net
-
+  - DOMAIN,go.microsoft.com
 
   # ==================================
   # Edge / Windows 配置服务
