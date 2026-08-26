@@ -1,6 +1,7 @@
 payload:
-
-
+  #临时全域名转出
+  - DOMAIN-SUFFIX,microsoft.com
+  
   - PROCESS-NAME,msedgewebview2.exe
   # ==================================
   # Microsoft 登录认证
@@ -22,7 +23,7 @@ payload:
   - DOMAIN-SUFFIX,msftidentity.com
   - DOMAIN-SUFFIX,msidentity.com
   - DOMAIN-SUFFIX,phonefactor.net
-
+  - DOMAIN-SUFFIX,bing.com
 
   # ==================================
   # Microsoft 服务 / Office
