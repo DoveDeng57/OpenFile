@@ -24,6 +24,8 @@ payload:
   - DOMAIN-SUFFIX,msidentity.com
   - DOMAIN-SUFFIX,phonefactor.net
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,msn.com
+
 
   # ==================================
   # Microsoft 服务 / Office
