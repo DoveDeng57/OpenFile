@@ -1,0 +1,67 @@
+payload:
+
+  # Microsoft 主域
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,cloud.microsoft
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,msn.com
+    # Windows 服务
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,windowsupdate.com
+
+  # Microsoft 账号 / 登录
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,live.net
+  - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,outlookmobile.com
+
+  - DOMAIN-SUFFIX,msauth.net
+  - DOMAIN-SUFFIX,msauthimages.net
+  - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msftauthimages.net
+  - DOMAIN-SUFFIX,msftidentity.com
+  - DOMAIN-SUFFIX,msidentity.com
+  - DOMAIN-SUFFIX,phonefactor.net
+
+
+  # Office / Microsoft 365
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,sharepointonline.com
+
+
+
+  # Teams / Skype
+  - DOMAIN-SUFFIX,mstea.ms
+  - DOMAIN-SUFFIX,lync.com
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,skypeassets.com
+
+
+  # OneNote
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,onenote.net
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
+
+
+  # Edge / 网络检测
+  - DOMAIN-SUFFIX,msedge.net
+
+
+  # Microsoft Store
+  - DOMAIN-SUFFIX,onestore.ms
+  - DOMAIN-SUFFIX,xboxservices.com
+
+
+  # CDN / 下载资源
+  - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,msocdn.com
+  - DOMAIN-SUFFIX,aspnetcdn.com
+  - DOMAIN-SUFFIX,gfx.ms
+  - DOMAIN-SUFFIX,sfx.ms
+  - DOMAIN-SUFFIX,aka.ms
