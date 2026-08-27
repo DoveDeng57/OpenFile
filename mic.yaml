@@ -5,6 +5,12 @@ payload:
   - DOMAIN-SUFFIX,cloud.microsoft
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,msn.cn
+  - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,azure.net
+  - DOMAIN-SUFFIX,azureedge.net
+  # msn图片资源
+  - DOMAIN-SUFFIX,akamaized.net
     # Windows 服务
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,windows.net
