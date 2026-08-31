@@ -9,6 +9,8 @@ payload:
   - DOMAIN-SUFFIX,cookielaw.org
   # 授时服务器
   - DOMAIN-SUFFIX,pool.ntp.org
+  # P社国内网站
+  - DOMAIN-SUFFIX,paradox-interactive.com
   # ==================================
   # NVIDIA 主站
   # ==================================
