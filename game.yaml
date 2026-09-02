@@ -10,5 +10,6 @@ payload:
   - DOMAIN-SUFFIX,backtrace.io
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,crashlytics.com
-
+ # P社MOD下载
+  - DOMAIN-SUFFIX,paradox-interactive.com
 
