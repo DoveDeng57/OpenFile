@@ -1,7 +1,5 @@
 payload:
-  # ==================================
-  # 测试
-  # ==================================
-  - DOMAIN-SUFFIX,google.com
+  # 微软账号管理
+  - DOMAIN-SUFFIX,account.microsoft.com
 
 
