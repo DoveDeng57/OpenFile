@@ -56,3 +56,5 @@ payload:
   - DOMAIN,c.bing.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,rumt-zh.com
+  # 域名解析
+  - DOMAIN-SUFFIX,jj-mob.com
