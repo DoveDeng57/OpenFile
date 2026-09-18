@@ -54,7 +54,6 @@ payload:
   - DOMAIN-SUFFIX,nvplay.net
   # 必应搜索
   - DOMAIN,c.bing.com
-  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,rumt-zh.com
   # 域名解析
   - DOMAIN-SUFFIX,jj-mob.com
