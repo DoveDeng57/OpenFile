@@ -46,7 +46,6 @@ payload:
   # Multicast
   - IP-CIDR,224.0.0.0/4,no-resolve
 
-
   # ==================================
   # IPv6 Local Network
   # ==================================
