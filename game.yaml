@@ -1,4 +1,7 @@
 payload:
+
+  - PROCESS-NAME,Cities2.exe
+  - PROCESS-NAME,Paradox Launcher.exe
   # ==================================
   # Paradox 官方主站
   # ==================================
@@ -14,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,paradox-interactive.com
   - DOMAIN-SUFFIX,bunnyinfra.net
   - DOMAIN-SUFFIX,mediadelivery.net
+  - DOMAIN-SUFFIX,metrics-bunny.net
