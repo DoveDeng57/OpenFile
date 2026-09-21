@@ -22,4 +22,7 @@ payload:
   - DOMAIN,prod.rewardsplatform.microsoft.com
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN,login.live.com
-  - DOMAIN-SUFFIX,static.azureedge.net
+  - DOMAIN,edge-consumer-static.azureedge.net
+  - DOMAIN,c.msn.cn
+  - DOMAIN,adsdk.microsoft.com
+  - DOMAIN,adxrp.admamax.com
