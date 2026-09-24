@@ -26,3 +26,7 @@ payload:
   - DOMAIN,c.msn.cn
   - DOMAIN,adsdk.microsoft.com
   - DOMAIN,adxrp.admamax.com
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN,pti.store.microsoft.com
+  - DOMAIN,uci.officeapps.live.com
+  - DOMAIN,messaging.engagement.office.com
