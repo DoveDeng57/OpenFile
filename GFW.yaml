@@ -30,3 +30,7 @@ payload:
   - DOMAIN,pti.store.microsoft.com
   - DOMAIN,uci.officeapps.live.com
   - DOMAIN,messaging.engagement.office.com
+  # ikuuu订阅
+  - DOMAIN-SUFFIX,ikuuu.top
+  # 法国公司
+  - DOMAIN-SUFFIX,crisp.chat
