@@ -52,5 +52,5 @@ payload:
   - DOMAIN-SUFFIX,rumt-zh.com
   # 域名解析
   - DOMAIN-SUFFIX,jj-mob.com
-  - DOMAIN,dbeaver.io
+  - DOMAIN-SUFFIX,dbeaver.io
   - DOMAIN-SUFFIX,voidtools.com
