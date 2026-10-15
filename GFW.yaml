@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,ghfast.top
   - DOMAIN-SUFFIX,no-mad-sub.one
+  - DOMAIN-SUFFIX,terminal69.win
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,npmjs.com
     # Cloudflare CDNJS 公共静态资源 CDN
