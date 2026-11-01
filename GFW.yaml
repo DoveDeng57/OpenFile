@@ -35,6 +35,7 @@ payload:
   # ikuuu订阅
   - DOMAIN-SUFFIX,ikuuu.top
   - DOMAIN-SUFFIX,tagss14.pro
+  - DOMAIN-SUFFIX,tagss.pro
   # 法国公司
   - DOMAIN-SUFFIX,crisp.chat
   - DOMAIN-SUFFIX,emeditor.com
