@@ -53,7 +53,5 @@ payload:
   # 域名解析
   - DOMAIN-SUFFIX,jj-mob.com
   - DOMAIN-SUFFIX,dbeaver.io
-  # 企业微信
-  - DOMAIN-SUFFIX,bitbug_favicon.ico
   # 分享软件
   - DOMAIN-SUFFIX,xrfxw.com
